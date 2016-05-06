@@ -1,13 +1,14 @@
 package com.j2ghz.recipecrawler;
 
 import com.j2ghz.recipecrawler.proxy.IProxy;
+import com.j2ghz.recipecrawler.reference.Reference;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = "RecipeCrawler", name = "RecipeCrawler", version = "1.7.10-1.0")
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
 public class RecipeCrawler {
     @Mod.Instance("RecipeCrawler")
     public static RecipeCrawler instance;
