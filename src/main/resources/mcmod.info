@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "RecipeCrawler",
+    "name": "Recipe Crawler",
+    "description": "Crawls Recipes. What did you expect?",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "j2ghz"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
